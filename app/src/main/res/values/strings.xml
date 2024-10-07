@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">paywall</string>
+
+
+    <string name="subscribe_text">SUBSCRIBE FOR FULL ACCESS WITH AUTOMATIC RENEWAL...</string>
+    <string name="one_month">1 MONTH</string>
+    <string name="six_months">6 MONTHS</string>
+    <string name="twelve_months">12 MONTHS</string>
+    <string name="custom_connections">CUSTOM CONNECTIONS</string>
+    <string name="unlimited_quizzes">UNLIMITED QUIZZES</string>
+    <string name="profile_customization">PROFILE AND PHOTO COLOR CUSTOMIZATION</string>
+    <string name="profile_visitors">SEE YOUR PROFILE VISITORS  CUSTOM KNOT INCREASERS</string>
+    <string name="price">60 TAKA</string>
+
+
+    <string name="select_payment_method">Select Payment Method</string>
+    <string name="proceed_to_payment">Proceed to Payment</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <!-- Background for the whole page -->
+    <color name="background">#F5F5F5</color>
+
+    <!-- Common Colors -->
+    <color name="black">#000000</color>
+
+    <color name="primary">#FF5722</color> <!-- Orange color for the Soulee logo -->
+
+    <!-- Section Background Colors -->
+    <color name="personal_details_bg">#FFEB3B</color> <!-- Yellow -->
+    <color name="password_privacy_bg">#4CAF50</color> <!-- Green -->
+    <color name="app_settings_bg">#03A9F4</color> <!-- Blue -->
+    <color name="app_credit_bg">#FFC107</color> <!-- Orange -->
+    <color name="help_support_bg">#FF5722</color> <!-- Red -->
+
+    <color name="primaryColor">#FF5757</color>
+    <color name="textColor">#000000</color>
+    <color name="backgroundColor">#FFFFFF</color>
+
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="blue">#0000FF</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="bank_transfer_default">#EDEDED</color>  <!-- Example color -->
+    <color name="bank_transfer_selected">#FF5757</color> <!-- Example color -->
+
+    <color name="card_selected">#FF5757</color>  <!-- Example selected color -->
+    <color name="card_default">#EDEDED</color>    <!-- Example default color -->
+
+    <color name="mobile_banking_selected">#FF5757</color>  <!-- Example selected color -->
+    <color name="mobile_banking_default">#EDEDED</color>    <!-- Example default color -->
+
+</resources>
